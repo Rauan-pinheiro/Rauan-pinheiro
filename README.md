@@ -1,4 +1,3 @@
-Olá, eu sou Rauan! 
 
 <div align="center">
   <a href="https://github.com/rauan-Pinheiro">
