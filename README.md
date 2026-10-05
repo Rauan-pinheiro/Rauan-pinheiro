@@ -22,14 +22,22 @@
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| [**4R Suplementos**](https://github.com/Rauan-pinheiro/Gest-o-4Rsuplementos-new) | Sistema de gestão em produção para uma loja de suplementos: estoque por local, vendas, fiado, orçamentos, promoções e dashboard | Django 6 · PostgreSQL · Docker · Caddy |
+| [**Gestão Hamburgueria**](https://github.com/Rauan-pinheiro/gestao-hamburgueria) | Sistema em produção para uma hamburgueria: ficha técnica, custo e lucro real por venda, estoque por ingrediente e impressão térmica. Tem 231 testes | Django · MySQL · JavaScript |
+| [**4R Suplementos**](https://github.com/Rauan-pinheiro/gestao-4r-suplementos) | Sistema de gestão em produção para uma loja de suplementos: estoque por local, vendas, fiado, orçamentos, promoções e dashboard | Django 6 · PostgreSQL · Docker · Caddy |
+| [**Agendamento SaaS**](https://github.com/Rauan-pinheiro/sistema_agendamento) | Plataforma multi-tenant de agendamento para barbearias e clínicas, com página pública por empresa | DRF · React · TypeScript |
 | [**Novopoint**](https://github.com/Rauan-pinheiro/novopoint-system) | Comanda eletrônica para uma lanchonete: o garçom faz o pedido no celular e ele é impresso automaticamente na cozinha | Django REST · React · MySQL · JWT |
-| [**Laboratório de Estudos**](https://github.com/Rauan-pinheiro/programming-studies) | Projetos de estudo: CRUDs com MySQL, consumo de API, automações em Python e um CRUD em Django | Python · MySQL · Django |
+| [**Financeiro Lava-Rápido**](https://github.com/Rauan-pinheiro/sistema-lavajato) | Controle financeiro de um lava-jato, com deploy no Render | Django · Bootstrap · PostgreSQL |
+
+📚 Estudos: [Laboratório de Estudos](https://github.com/Rauan-pinheiro/programming-studies) · [Fullstack Learning Path](https://github.com/Rauan-pinheiro/fullstack-learning-path)
+
+### 🤝 Meu jeito de trabalhar
+
+Desenvolvo meus projetos em parceria com o **Claude**, a IA da Anthropic, como par de programação. Eu conduzo cada projeto, do levantamento com o cliente às decisões e à validação no uso real, e o Claude me ajuda a projetar, programar, testar e documentar.
 
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,ts,js,html,css,postgres,mysql,docker,git,linux&theme=dark" />
 </div>
 
 <br>
