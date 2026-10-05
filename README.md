@@ -14,7 +14,7 @@
 
 Desenvolvo sistemas web para pequenos negócios: uma hamburgueria, uma loja de suplementos, uma lanchonete e um lava-jato. Vários deles rodam em produção no dia a dia desses lugares, então trato confiabilidade como requisito. Um bug ali significa caixa parado e cliente esperando.
 
-Meu foco é **backend**. Gosto de modelar o banco de dados, isolar a regra de negócio em uma camada de serviço, garantir consistência com transações atômicas e cobrir com testes automatizados o que não pode quebrar. Também construo APIs REST com Django REST Framework e autenticação JWT, conteinerizo as aplicações com Docker e cuido do deploy. Quando o projeto pede, desenvolvo o frontend em React com TypeScript.
+Meu foco é **backend**. Gosto de modelar o banco de dados, isolar a regra de negócio em uma camada de serviço, garantir consistência com transações atômicas e cobrir com testes automatizados o que não pode quebrar. Também construo APIs REST com Django REST Framework e autenticação JWT, empacoto as aplicações em contêineres Docker e cuido do deploy. Quando o projeto pede, desenvolvo o frontend em React com TypeScript.
 
 Programo em parceria com o [Claude](https://www.anthropic.com/claude), a IA da Anthropic, que uso como par de programação. O levantamento de requisitos com o cliente, as decisões de arquitetura e a validação em produção ficam comigo.
 
