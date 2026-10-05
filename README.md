@@ -1,23 +1,22 @@
 <h1 align="center">Rauan Pinheiro</h1>
 
 <p align="center">
-  Desenvolvedor back-end · Python e Django<br>
+  Desenvolvedor backend · Python e Django<br>
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rauanpinheiro-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/rauanpinheiro_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <img src="https://img.shields.io/badge/aberto%20a-est%C3%A1gio%20%7C%20j%C3%BAnior-2ea44f?style=flat-square" alt="Aberto a estágio ou júnior">
 </p>
 
 <br>
 
-Eu faço sistemas para pequenos negócios: uma hamburgueria, uma loja de suplementos, uma lanchonete, um lava-jato. Alguns deles estão em uso no dia a dia desses lugares, então aprendi cedo que bug em produção significa caixa parado e cliente esperando.
+Desenvolvo sistemas web para pequenos negócios: uma hamburgueria, uma loja de suplementos, uma lanchonete e um lava-jato. Vários deles rodam em produção no dia a dia desses lugares, então trato confiabilidade como requisito. Um bug ali significa caixa parado e cliente esperando.
 
-Gosto mais da parte de trás: modelar os dados direito, colocar a regra de negócio no lugar certo e escrever teste para o que não pode quebrar. Quando o projeto pede, também faço o front em React.
+Meu foco é **backend**. Gosto de modelar o banco de dados, isolar a regra de negócio em uma camada de serviço, garantir consistência com transações atômicas e cobrir com testes automatizados o que não pode quebrar. Também construo APIs REST com Django REST Framework e autenticação JWT, conteinerizo as aplicações com Docker e cuido do deploy. Quando o projeto pede, desenvolvo o frontend em React com TypeScript.
 
-Programo em parceria com o [Claude](https://www.anthropic.com/claude), a IA da Anthropic, que uso como par de programação. Entender o problema com o cliente, decidir o que construir e validar no uso real fica comigo.
+Programo em parceria com o [Claude](https://www.anthropic.com/claude), a IA da Anthropic, que uso como par de programação. O levantamento de requisitos com o cliente, as decisões de arquitetura e a validação em produção ficam comigo.
 
 <br>
 
