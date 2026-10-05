@@ -1,48 +1,71 @@
-<div align="center">
-  <h2>Olá, eu sou o Rauan Pinheiro 👋</h2>
-  <p>
-    Desenvolvedor <b>Back-end Python/Django</b> em formação · Estudante de Análise e Desenvolvimento de Sistemas<br>
-    Busco uma oportunidade de <b>estágio ou vaga júnior</b> em desenvolvimento.
-  </p>
+<h1 align="center">Rauan Pinheiro</h1>
 
-  <a href="https://linkedin.com/in/rauanpinheiro-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<p align="center">
+  Desenvolvedor back-end · Python e Django<br>
+  Estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
----
-
-### 🙋 Sobre mim
-
-- Desenvolvo **sistemas usados em negócios reais**, do levantamento com o dono do negócio até o deploy
-- Meu foco é **back-end com Python e Django**: modelagem de dados, APIs REST e regras de negócio
-- Também trabalho com React no front-end, Docker e bancos relacionais (PostgreSQL e MySQL)
-
-### 🚀 Projetos em destaque
-
-| Projeto | O que é | Stack |
-| :--- | :--- | :--- |
-| [**Gestão Hamburgueria**](https://github.com/Rauan-pinheiro/gestao-hamburgueria) | Sistema em produção para uma hamburgueria: ficha técnica, custo e lucro real por venda, estoque por ingrediente e impressão térmica. Tem 231 testes | Django · MySQL · JavaScript |
-| [**4R Suplementos**](https://github.com/Rauan-pinheiro/gestao-4r-suplementos) | Sistema de gestão em produção para uma loja de suplementos: estoque por local, vendas, fiado, orçamentos, promoções e dashboard | Django 6 · PostgreSQL · Docker · Caddy |
-| [**Agendamento SaaS**](https://github.com/Rauan-pinheiro/sistema_agendamento) | Plataforma multi-tenant de agendamento para barbearias e clínicas, com página pública por empresa | DRF · React · TypeScript |
-| [**Novopoint**](https://github.com/Rauan-pinheiro/novopoint-system) | Comanda eletrônica para uma lanchonete: o garçom faz o pedido no celular e ele é impresso automaticamente na cozinha | Django REST · React · MySQL · JWT |
-| [**Financeiro Lava-Rápido**](https://github.com/Rauan-pinheiro/sistema-lavajato) | Controle financeiro de um lava-jato, com deploy no Render | Django · Bootstrap · PostgreSQL |
-
-📚 Estudos: [Laboratório de Estudos](https://github.com/Rauan-pinheiro/programming-studies) · [Fullstack Learning Path](https://github.com/Rauan-pinheiro/fullstack-learning-path)
-
-### 🤝 Meu jeito de trabalhar
-
-Desenvolvo meus projetos em parceria com o **Claude**, a IA da Anthropic, como par de programação. Eu conduzo cada projeto, do levantamento com o cliente às decisões e à validação no uso real, e o Claude me ajuda a projetar, programar, testar e documentar.
-
-### 🛠️ Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,ts,js,html,css,postgres,mysql,docker,git,linux&theme=dark" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/rauanpinheiro-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/rauanpinheiro_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/aberto%20a-est%C3%A1gio%20%7C%20j%C3%BAnior-2ea44f?style=flat-square" alt="Aberto a estágio ou júnior">
+</p>
 
 <br>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rauan-pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauan-pinheiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Eu faço sistemas para pequenos negócios: uma hamburgueria, uma loja de suplementos, uma lanchonete, um lava-jato. Alguns deles estão em uso no dia a dia desses lugares, então aprendi cedo que bug em produção significa caixa parado e cliente esperando.
+
+Gosto mais da parte de trás: modelar os dados direito, colocar a regra de negócio no lugar certo e escrever teste para o que não pode quebrar. Quando o projeto pede, também faço o front em React.
+
+Programo em parceria com o [Claude](https://www.anthropic.com/claude), a IA da Anthropic, que uso como par de programação. Entender o problema com o cliente, decidir o que construir e validar no uso real fica comigo.
+
+<br>
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rauan-pinheiro/gestao-hamburgueria"><b>Gestão Hamburgueria</b></a><br>
+      <sub>Django · MySQL · JavaScript</sub>
+      <p>Mostra quanto cada venda realmente deu de lucro, já descontando ingredientes e taxa da maquininha. Tem ficha técnica, estoque por ingrediente, impressão na cozinha e 231 testes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rauan-pinheiro/gestao-4r-suplementos"><b>4R Suplementos</b></a><br>
+      <sub>Django · PostgreSQL · Docker</sub>
+      <p>Substituiu os backups soltos da loja. Controla estoque em vários pontos de venda, fiado, orçamentos, promoções e validades. Roda em produção com Docker e Caddy.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rauan-pinheiro/sistema_agendamento"><b>Agendamento SaaS</b></a><br>
+      <sub>Django REST · React · TypeScript</sub>
+      <p>Agenda online para barbearias e clínicas. Várias empresas na mesma base, com os dados isolados entre elas, e uma página pública para cada uma receber agendamentos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rauan-pinheiro/novopoint-system"><b>Novopoint</b></a><br>
+      <sub>Django REST · React · MySQL</sub>
+      <p>O garçom anota o pedido no celular e a comanda sai sozinha na impressora térmica da cozinha.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rauan-pinheiro/sistema-lavajato"><b>Financeiro Lava-Rápido</b></a><br>
+      <sub>Django · Bootstrap · Render</sub>
+      <p>Controle de serviços e faturamento de um lava-jato, com deploy automatizado no Render.</p>
+    </td>
+    <td width="50%" valign="top">
+      <b>Estudos</b><br>
+      <sub>Python · Django · HTML/CSS</sub>
+      <p>Exercícios e projetos de curso: <a href="https://github.com/Rauan-pinheiro/programming-studies">programming-studies</a> e <a href="https://github.com/Rauan-pinheiro/fullstack-learning-path">fullstack-learning-path</a>.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,react,ts,js,html,css,postgres,mysql,docker,git,linux" alt="Python, Django, React, TypeScript, JavaScript, HTML, CSS, PostgreSQL, MySQL, Docker, Git, Linux">
+</p>
